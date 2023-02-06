@@ -1,0 +1,15 @@
+{
+    "background_color": "#25316D",
+    "description": "Tracking energy consumption.",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "84x84",
+            "type": "image/png"
+        }
+    ],
+    "name": "Energy Tracker",
+    "short_name": "Energy Tracker",
+    "start_url":"/energy-tracker/index.html"
+}
